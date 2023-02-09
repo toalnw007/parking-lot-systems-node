@@ -1,0 +1,23 @@
+{
+  "name": "parking-lot-systems-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toalnw007/parking-lot-systems-node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/toalnw007/parking-lot-systems-node/issues"
+  },
+  "homepage": "https://github.com/toalnw007/parking-lot-systems-node#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
